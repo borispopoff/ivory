@@ -1,0 +1,25 @@
+{
+  "name": "ivory",
+  "displayName": "ivory",
+  "description": "usable light color scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ivory",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/borispopoff/ivory.git"
+  }
+}
