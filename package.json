@@ -17,9 +17,9 @@
         "path": "./themes/ivory-color-theme.json"
       },
       {
-        "label": "ivory-plane",
+        "label": "ivory-plain",
         "uiTheme": "vs",
-        "path": "./themes/ivory-plane-color-theme.json"
+        "path": "./themes/ivory-plain-color-theme.json"
       }
     ]
   },

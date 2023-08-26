@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "ivory-plane",
+	"name": "ivory-plain",
 	"type": "light",
 	"colors": {
 		"activityBarBadge.background": "#007acc",
