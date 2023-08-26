@@ -2,7 +2,7 @@
   "name": "ivory",
   "displayName": "ivory",
   "description": "usable light color scheme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -20,6 +20,11 @@
         "label": "ivory-plain",
         "uiTheme": "vs",
         "path": "./themes/ivory-plain-color-theme.json"
+      },
+      {
+        "label": "ivory-white",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-white-color-theme.json"
       }
     ]
   },
