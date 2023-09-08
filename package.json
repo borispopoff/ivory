@@ -2,9 +2,9 @@
   "name": "ivory",
   "displayName": "ivory",
   "description": "usable light color scheme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
@@ -25,6 +25,16 @@
         "label": "ivory-white",
         "uiTheme": "vs",
         "path": "./themes/ivory-white-color-theme.json"
+      },
+      {
+        "label": "ivory-lemon",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-lemon-color-theme.json"
+      },
+      {
+        "label": "ivory-lemon-plain",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-lemon-plain-color-theme.json"
       }
     ]
   },
