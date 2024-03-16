@@ -33,7 +33,7 @@
 		"tab.inactiveBackground": "#eeeee0",
 		"tab.lastPinnedBorder": "#61616130",
 		"terminal.inactiveSelectionBackground": "#e5ebf1",
-		"titleBar.activeBackground": "#8b8b83",
+		"titleBar.activeBackground": "#cdcdc1",
 		"titleBar.inactiveBackground": "#cdcdc1",
 		"widget.border": "#d4d4d4",
 		//"activityBar.activeBorder": "#ffffff",
