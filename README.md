@@ -1,5 +1,6 @@
 # ivory color scheme
 
+![screenshot](ivory-v1.png "ivory-v1")
 ![screenshot](ivory.png "ivory")
 ![screenshot](acme.png "acme")
 ![screenshot](lemon.png "lemon")
