@@ -2,7 +2,7 @@
   "name": "ivory",
   "displayName": "ivory",
   "description": "usable light color scheme",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -12,14 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ivory-v1",
-        "uiTheme": "vs",
-        "path": "./themes/ivory-v1.json"
-      },
-      {
         "label": "ivory",
         "uiTheme": "vs",
         "path": "./themes/ivory.json"
+      },
+      {
+        "label": "ivory-v2",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-v2.json"
       },
        {
         "label": "ivory-acme",
