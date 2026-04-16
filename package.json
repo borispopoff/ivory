@@ -2,7 +2,7 @@
   "name": "ivory",
   "displayName": "ivory",
   "description": "usable light color scheme",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -45,6 +45,11 @@
         "label": "ivory-vstudio",
         "uiTheme": "vs",
         "path": "./themes/ivory-vstudio.json"
+      },
+      {
+        "label": "ivory-vstudio-bterm",
+        "uiTheme": "vs",
+        "path": "./themes/ivory-vstudio-bterm.json"
       }
     ]
   },
